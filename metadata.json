@@ -1,0 +1,6 @@
+{
+  "name": "Country Time and IST Sync",
+  "description": "An interactive dashboard to search global countries and view their local times alongside Indian Standard Time (IST), complete with synchronizable timeline sliders, meeting planners, and a pinned watch deck.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
